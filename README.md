@@ -1,7 +1,21 @@
 Bem vinda(o) 👋
 
-Tecnóloga em Mecatrônica Industrial que migrou para a área de desenvolvimento. Tenho conhecimento básico em Java, C, node e banco de dados(principalmente Mysql e PostgreSQL) e conhecimento intermediário em html, css, JavaScript e seus frameworks(usando mais o react). Dou mais ênfase nos estudos para me aprofundar cada vez mais na linguagem kotlin, principalmente pelo fato de atuar como desenvolvedora android e usar essa linguagem para desenvolver.
+## Olá! Eu sou a Juliana
 
-<!--
-**julianacuani/julianacuani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Hoje trabalho com front-end (mobile)
+- 🌱 Estudando kotlin e flutter 
+<div>
+  <a href="https://julianacuani.github.io/julianac/">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=julianacuani&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianacuani&layout=compact&langs_count=16&theme=dark"/>
+</div>
+  
+ 
+##
+  
+<div>
+   <a href="https://www.instagram.com/julianacuani/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:juliana.271@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/julianacuani/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
 

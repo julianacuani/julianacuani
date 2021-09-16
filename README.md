@@ -3,7 +3,7 @@ Bem vinda(o) 👋
 ## Olá! Eu sou a Juliana
 
 - 🔭 Hoje trabalho com front-end (mobile)
-- 🌱 Estudando kotlin e flutter 
+- 🌱 Estudando kotlin  
 <div>
   <a href="https://julianacuani.github.io/julianac/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=julianacuani&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
